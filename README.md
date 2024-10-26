@@ -1,0 +1,1 @@
+This is a repo for plotting monthly spending using dash and/or matplotlib in Python. It depends on input csvs for financial transactions.
